@@ -1,4 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 , RAPIDOS Y FURIOSOS X
+#EXTINF:-1 , tvg-logo = "https://i.blogs.es/98c65d/rapidos-y-furiosos-10-resena-12/1366_2000.jpeg"
+RAPIDOS Y FURIOSOS X
 https://basicdev.one/api/v1/manifest.m3u8?id=LKG0kl8lz5L&source=b0fd72ff-ffb5-4ac4-af37-2e71e809e717
